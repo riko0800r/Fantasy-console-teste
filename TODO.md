@@ -2,7 +2,7 @@
 
   ## hardware
   CPU Virtual(Registradores, opcodes, tamanho dos dados, tamanho do barramento de dados e endereço),
-  como voce vai fazer uma cpu 16 ou 8, seria bom fazer baseada no 8605 (nao lembro o nome, mas ta realacionado com x86)
+  como voce vai fazer uma cpu 16 ou 8, seria bom fazer baseada no 8086 (nao lembro o nome, mas ta realacionado com x86)
   Além de criar os registradores flag(interno, o usuario nao vai modificar diretamente.
 
   Memoria RAM
