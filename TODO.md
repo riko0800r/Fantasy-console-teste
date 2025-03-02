@@ -20,7 +20,7 @@
 
 ## software
 
-  ### kernel
+  ### Kernel/Core
   Essa parte precisa ser pensada bem, pois existem varios tipos de design de kernel, e o modo que ele age
   Caso esteja interessado em fazer uma pesquisa antecipada: unikernel, nanokernel, exokernel,  microkernel, monolitico
 
